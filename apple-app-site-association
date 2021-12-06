@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "W6FCJ9GKDF.co.pactplatform.nations.development",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
